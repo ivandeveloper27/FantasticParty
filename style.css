@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 11.5px;
+    color: white; 
+}
+
+header a {
+    color: white;
+    border: 3px solid white;
+    padding: 3.5px;
+    text-decoration: none;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+footer {
+    background-color: lightpink;
+    padding: 5px
+}
+
+footer p {
+    background-color: white;
+    margin: 10px
+}
+
+nav {
+    padding: 15px;
+    background-color:  rgb(64, 150, 64);
+    border-radius: 11.5px
+}
+
+nav a {
+    padding: 10px;
+    margin: 10px;
+    color: white; 
+}
+
+.tovari {
+    border: 3.5px solid blue;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h2 {
+    color: blue;
+    font-size: 40px
+}
